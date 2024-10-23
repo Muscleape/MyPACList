@@ -3,29 +3,30 @@ my pac list
 
 
 
-||githubusercontent.com
-||api.github.com
-||github.com
-||chat.openai.com
-||openai.com
-||claude.ai
-||sms-activate.io
-||github.io
-||chatgpt.com
-||linux.do
-||jetbrains
-||*postman.com
-||devv.ai*
-||felo.ai*
-||*jetbrains*
-||blog.jetbrains*
-||youtrack.jetbrains*
-||naiixi
-||sing-box*
-||reddit*
-||macked.app*
-||medium*
-||v0*
-||bilin.ai*
-||codemonkey*
-||askyourdatabase*
+
+||githubusercontent.com  <br/>
+||api.github.com  <br/>
+||github.com  <br/>
+||chat.openai.com  <br/>
+||openai.com  <br/>
+||claude.ai  <br/>
+||sms-activate.io  <br/>
+||github.io  <br/>
+||chatgpt.com  <br/>
+||linux.do  <br/>
+||jetbrains  <br/>
+||*postman.com  <br/>
+||devv.ai*  <br/>
+||felo.ai*  <br/>
+||*jetbrains*  <br/>
+||blog.jetbrains*  <br/>
+||youtrack.jetbrains*  <br/>
+||naiixi  <br/>
+||sing-box*  <br/>
+||reddit*  <br/>
+||macked.app*  <br/>
+||medium*  <br/>
+||v0*  <br/>
+||bilin.ai*  <br/>
+||codemonkey*  <br/>
+||askyourdatabase*  <br/>
